@@ -6,8 +6,15 @@
 #### Currently Learning 🌱
 - React Native
 - Cats library for Scala
+- Apache Spark
 - Design Patterns
 - How to be a better developer/leader within the engineering world
+
+### 💬 Ask me about ...
+- React
+- Git
+- Javascript
+- Scala
 <!--
 **JimmyGuarin/JimmyGuarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
