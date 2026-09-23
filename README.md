@@ -5,9 +5,9 @@
 
 #### Currently Learning 🌱
 - React Native
-- Cats library for Scala
 - Prompt Engineering
 - Design Patterns
+- ML/AI
 - How to be a better developer/leader within the engineering world
 
 ### 💬 Ask me about ...
